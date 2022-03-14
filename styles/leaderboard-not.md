@@ -10,3 +10,5 @@ git push -u origin main
 git remote add origin https://github.com/webashrafians/leader-board-css3.git
 git branch -M main
 git push -u origin main
+
+.player+6>img[src="images/players/player=$.png"]+h3{Top Player=$}
